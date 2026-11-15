@@ -178,7 +178,7 @@ Cada práctica usa la misma carpeta en `starter-files/` y `completed-examples/`:
     <td style="border: none; text-align: left; padding: 5px 25px;">Peñaranda Caldas, Gabriel Augusto</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; text-align: left; padding: 5px 25px;">[Pendiente: código]</td>
+    <td style="border: none; text-align: left; padding: 5px 25px;">U20221C590</td>
     <td style="border: none; text-align: left; padding: 5px 25px;">Pezo Castilla, María José</td>
   </tr>
   <tr style="border: none;">
