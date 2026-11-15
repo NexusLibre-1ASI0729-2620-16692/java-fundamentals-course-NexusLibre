@@ -22,7 +22,7 @@ Este curso introductorio enseña a estudiantes de secundaria a programar con **J
 ### Lección 1: ¿Qué es programar y qué es Java? (6 minutos)
 
 - **Descripción:** Descubre qué significa programar con ejemplos de la vida diaria y conoce qué es Java y para qué se utiliza.
-- **Enlace:** [Pendiente: enlace de YouTube]
+- **Enlace:** [Ver la lección](https://youtu.be/MCD8sVVYSnA)
 - **Conclusiones clave:** Programa, instrucciones, lenguaje de programación, Java y editor en línea.
 - **Práctica — Explorar el editor:** Abre JDoodle, ubica el editor y el botón **Execute**, y ejecuta el programa de ejemplo.
 - **Empieza a programar:** [Abrir JDoodle](https://www.jdoodle.com/online-java-compiler) y copiar el [código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-01) 👈 **¡No necesitas registrarte!**
@@ -30,7 +30,7 @@ Este curso introductorio enseña a estudiantes de secundaria a programar con **J
 ### Lección 2: Primer programa: Hola Mundo (6 minutos)
 
 - **Descripción:** Escribe y ejecuta tu primer programa en Java para mostrar un mensaje en pantalla.
-- **Enlace:** [Pendiente: enlace de YouTube]
+- **Enlace:** [Ver la lección](https://youtu.be/LbanAaarmUQ)
 - **Conclusiones clave:** Clase `Main`, método `main`, `System.out.println`, comillas y punto y coma.
 - **Práctica — Mi primer mensaje:** Cambia el mensaje de "Hola Mundo" por un saludo propio y agrega una segunda línea.
 - **Empieza a programar:** [Abrir JDoodle](https://www.jdoodle.com/online-java-compiler) y copiar el [código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-02) 👈 **¡No necesitas registrarte!**
@@ -38,7 +38,7 @@ Este curso introductorio enseña a estudiantes de secundaria a programar con **J
 ### Lección 3: Variables y tipos de datos (6 minutos)
 
 - **Descripción:** Aprende a guardar información en variables y a elegir el tipo de dato adecuado.
-- **Enlace:** [Pendiente: enlace de YouTube]
+- **Enlace:** [Ver las lecciones 3 y 4 (mismo video)](https://youtu.be/Pci6BBgdFJc)
 - **Conclusiones clave:** Variable, `int`, `double`, `String`, `boolean`, declaración y asignación.
 - **Práctica — Mis datos:** Crea variables para un apodo, una edad, una estatura y si te gusta el deporte, y muéstralas en pantalla.
 - **Empieza a programar:** [Abrir JDoodle](https://www.jdoodle.com/online-java-compiler) y copiar el [código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-03) 👈 **¡No necesitas registrarte!**
@@ -46,7 +46,7 @@ Este curso introductorio enseña a estudiantes de secundaria a programar con **J
 ### Lección 4: Operadores y estructuras de control (6 minutos)
 
 - **Descripción:** Haz cálculos, toma decisiones con `if/else` y repite acciones con `for` y `while`.
-- **Enlace:** [Pendiente: enlace de YouTube]
+- **Enlace:** [Ver las lecciones 3 y 4 (mismo video)](https://youtu.be/Pci6BBgdFJc)
 - **Conclusiones clave:** Operadores aritméticos, de comparación y lógicos; `if/else`; ciclos `for` y `while`.
 - **Práctica — Decide y repite:** Indica si una nota aprueba o desaprueba y muestra los números del 1 al 10.
 - **Empieza a programar:** [Abrir JDoodle](https://www.jdoodle.com/online-java-compiler) y copiar el [código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-04) 👈 **¡No necesitas registrarte!**
@@ -54,7 +54,7 @@ Este curso introductorio enseña a estudiantes de secundaria a programar con **J
 ### Lección 5: Métodos y parámetros (6 minutos)
 
 - **Descripción:** Organiza tu código en métodos que reciben datos y devuelven resultados.
-- **Enlace:** [Pendiente: enlace de YouTube]
+- **Enlace:** [Ver la lección](https://youtu.be/T7gSqGHsFgw)
 - **Conclusiones clave:** Método, parámetros, `return`, `void` y llamada a un método.
 - **Práctica — Crea tu propio método:** Crea el método `despedir`, que reciba un nombre y muestre «Hasta luego» y ese nombre, y llámalo desde `main` con tu apodo. Reto extra: crea el método `multiplicar`, que reciba dos números y devuelva su resultado.
 - **Empieza a programar:** [Abrir JDoodle](https://www.jdoodle.com/online-java-compiler) y copiar el [código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-05) 👈 **¡No necesitas registrarte!**
@@ -62,7 +62,7 @@ Este curso introductorio enseña a estudiantes de secundaria a programar con **J
 ### Lección 6: Entrada y salida de datos (6 minutos)
 
 - **Descripción:** Pide datos al usuario con `Scanner` y muestra resultados en la consola.
-- **Enlace:** [Pendiente: enlace de YouTube]
+- **Enlace:** [Ver la lección](https://youtu.be/gADt8TEkSRU)
 - **Conclusiones clave:** `Scanner`, `nextLine()`, `nextInt()`, `System.out.print` y `println`.
 - **Práctica — Tu propia multiplicación:** Crea el método `multiplicar`, llámalo con los dos números que escribe la persona y muestra el resultado.
 - **Empieza a programar:** [Abrir JDoodle](https://www.jdoodle.com/online-java-compiler) y copiar el [código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-06) 👈 **¡No necesitas registrarte!**
@@ -70,7 +70,7 @@ Este curso introductorio enseña a estudiantes de secundaria a programar con **J
 ### Lección 7: Introducción a POO: clases y objetos (6 minutos)
 
 - **Descripción:** Entiende la diferencia entre una clase y un objeto con un ejemplo cercano.
-- **Enlace:** [Pendiente: enlace de YouTube]
+- **Enlace:** [Ver la lección](https://youtu.be/2Y0XeqCSXSQ)
 - **Conclusiones clave:** Clase, objeto, atributos, métodos y `new`.
 - **Práctica — Tu propia mascota:** Crea una tercera mascota, agrega a la clase `Mascota` un método `jugar()` y haz que tu mascota se presente y juegue.
 - **Empieza a programar:** [Abrir JDoodle](https://www.jdoodle.com/online-java-compiler) y copiar el [código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-07) 👈 **¡No necesitas registrarte!**
@@ -78,7 +78,7 @@ Este curso introductorio enseña a estudiantes de secundaria a programar con **J
 ### Lección 8: Constructores y encapsulación (6 minutos)
 
 - **Descripción:** Crea objetos con constructores y protege su información con atributos privados.
-- **Enlace:** [Pendiente: enlace de YouTube]
+- **Enlace:** [Ver la lección](https://youtu.be/DiBTpFrEdek)
 - **Conclusiones clave:** Constructor, `this`, `private`, getters y setters.
 - **Práctica — Protege tus datos:** Agrega un constructor, vuelve privados los atributos y crea sus getters y setters.
 - **Empieza a programar:** [Abrir JDoodle](https://www.jdoodle.com/online-java-compiler) y copiar el [código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-08) 👈 **¡No necesitas registrarte!**
@@ -86,7 +86,7 @@ Este curso introductorio enseña a estudiantes de secundaria a programar con **J
 ### Lección 9: Arrays y cadenas con objetos (6 minutos)
 
 - **Descripción:** Guarda varios datos en un array, trabaja con cadenas de texto y crea un salón de estudiantes como un array de objetos para calcular el promedio y buscar por nombre.
-- **Enlace:** [Ver la lección](https://youtu.be/zMqBVd8-0d4)
+- **Enlace:** [Ver la lección](https://youtu.be/_9BIc_v3tuQ)
 - **Conclusiones clave:** Array, índice desde 0, `length`, recorrido con `for` y `for-each`; métodos de `String` como `length()`, `toUpperCase()`, `charAt()`, `equals()` y `equalsIgnoreCase()`; array de objetos de la clase `Estudiante`.
 - **Práctica — Mi salón:** Muestra el nombre de cada estudiante en MAYÚSCULAS y encuentra al estudiante con la nota más alta.
 - **Empieza a programar:** [Abrir la práctica en JDoodle](https://www.jdoodle.com/ga/mqyx-3rc7-ka39) 👈 **¡No necesitas registrarte!** ([código inicial en GitHub](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-09))
@@ -94,7 +94,7 @@ Este curso introductorio enseña a estudiantes de secundaria a programar con **J
 ### Lección 10: Mini proyecto, buenas prácticas y errores comunes (6 minutos)
 
 - **Descripción:** Integra todo lo aprendido en un registro de estudiantes que pide los datos por teclado y genera un reporte del salón; además, aprende a reconocer y corregir los errores más frecuentes.
-- **Enlace:** [Ver la lección](https://youtu.be/XMJnAvIaD5Y)
+- **Enlace:** [Ver la lección](https://youtu.be/zmqySDcw7O8)
 - **Conclusiones clave:** Clases `Estudiante` y `Registro`, array de objetos, `Scanner` y `nextLine()` para limpiar el Enter, `printf` con `%.2f`; buenas prácticas (nombres claros, sangría, métodos cortos, atributos privados); errores comunes: `ArrayIndexOutOfBoundsException`, `';' expected`, `cannot find symbol`, `==` frente a `equals` e `InputMismatchException`.
 - **Proyecto final — Registro de estudiantes:** Agrega a la clase `Registro` un método `contarAprobados()` y muéstralo en el reporte. Extra: un método `buscar(String nombre)` con `equalsIgnoreCase`.
 - **Empieza a programar:** [Abrir la práctica en JDoodle](https://www.jdoodle.com/ga/vypy-nsky-bwbs) y activar **Interactive** 👈 **¡No necesitas registrarte!** ([código inicial en GitHub](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-10))
@@ -110,16 +110,16 @@ Este curso introductorio enseña a estudiantes de secundaria a programar con **J
 
 | Lección | Actividad | Video | Empezar a programar |
 |---|---|---|---|
-| 1 | Explorar el editor | [Pendiente] | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-01) |
-| 2 | Mi primer mensaje | [Pendiente] | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-02) |
-| 3 | Mis datos | [Pendiente] | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-03) |
-| 4 | Decide y repite | [Pendiente] | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-04) |
-| 5 | Crea tu propio método | [Pendiente] | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-05) |
-| 6 | Tu propia multiplicación | [Pendiente] | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-06) |
-| 7 | Tu propia mascota | [Pendiente] | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-07) |
-| 8 | Protege tus datos | [Pendiente] | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-08) |
-| 9 | Mi salón | [Ver](https://youtu.be/zMqBVd8-0d4) | [JDoodle](https://www.jdoodle.com/ga/mqyx-3rc7-ka39) · [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-09) |
-| 10 | Registro de estudiantes | [Ver](https://youtu.be/XMJnAvIaD5Y) | [JDoodle](https://www.jdoodle.com/ga/vypy-nsky-bwbs) · [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-10) |
+| 1 | Explorar el editor | [Ver](https://youtu.be/MCD8sVVYSnA) | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-01) |
+| 2 | Mi primer mensaje | [Ver](https://youtu.be/LbanAaarmUQ) | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-02) |
+| 3 | Mis datos | [Ver](https://youtu.be/Pci6BBgdFJc) | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-03) |
+| 4 | Decide y repite | [Ver](https://youtu.be/Pci6BBgdFJc) | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-04) |
+| 5 | Crea tu propio método | [Ver](https://youtu.be/T7gSqGHsFgw) | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-05) |
+| 6 | Tu propia multiplicación | [Ver](https://youtu.be/gADt8TEkSRU) | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-06) |
+| 7 | Tu propia mascota | [Ver](https://youtu.be/2Y0XeqCSXSQ) | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-07) |
+| 8 | Protege tus datos | [Ver](https://youtu.be/DiBTpFrEdek) | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-08) |
+| 9 | Mi salón | [Ver](https://youtu.be/_9BIc_v3tuQ) | [JDoodle](https://www.jdoodle.com/ga/mqyx-3rc7-ka39) · [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-09) |
+| 10 | Registro de estudiantes | [Ver](https://youtu.be/zmqySDcw7O8) | [JDoodle](https://www.jdoodle.com/ga/vypy-nsky-bwbs) · [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-10) |
 
 ## Cómo usar este repositorio
 
