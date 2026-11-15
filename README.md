@@ -99,3 +99,94 @@ Este curso introductorio enseña a estudiantes de secundaria a programar con **J
 - **Proyecto final — Registro de estudiantes:** Agrega a la clase `Registro` un método `contarAprobados()` y muéstralo en el reporte. Extra: un método `buscar(String nombre)` con `equalsIgnoreCase`.
 - **Empieza a programar:** [Abrir la práctica en JDoodle](https://www.jdoodle.com/ga/vypy-nsky-bwbs) y activar **Interactive** 👈 **¡No necesitas registrarte!** ([código inicial en GitHub](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-10))
 - **Recursos para continuar:** [Documentación oficial de Java](https://docs.oracle.com/en/java/javase/21/) y [Tutoriales de Java de Oracle](https://docs.oracle.com/javase/tutorial/).
+
+## Recursos adicionales
+
+- **Repositorio con el código fuente:** [java-fundamentals-course-NexusLibre](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre)
+- **Editor en línea:** [JDoodle](https://www.jdoodle.com/online-java-compiler).
+- **Documentación:** [Java SE 21 Documentation](https://docs.oracle.com/en/java/javase/21/).
+
+### Todas las actividades prácticas
+
+| Lección | Actividad | Video | Empezar a programar |
+|---|---|---|---|
+| 1 | Explorar el editor | [Pendiente] | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-01) |
+| 2 | Mi primer mensaje | [Pendiente] | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-02) |
+| 3 | Mis datos | [Pendiente] | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-03) |
+| 4 | Decide y repite | [Pendiente] | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-04) |
+| 5 | Mi calculadora | [Pendiente] | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-05) |
+| 6 | Pregúntame | [Pendiente] | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-06) |
+| 7 | Mi primera clase | [Pendiente] | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-07) |
+| 8 | Protege tus datos | [Pendiente] | [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-08) |
+| 9 | Mi salón | [Ver](https://youtu.be/zMqBVd8-0d4) | [JDoodle](https://www.jdoodle.com/ga/mqyx-3rc7-ka39) · [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-09) |
+| 10 | Registro de estudiantes | [Ver](https://youtu.be/XMJnAvIaD5Y) | [JDoodle](https://www.jdoodle.com/ga/vypy-nsky-bwbs) · [Código inicial](https://github.com/NexusLibre-1ASI0729-2620-16692/java-fundamentals-course-NexusLibre/tree/main/starter-files/leccion-10) |
+
+## Cómo usar este repositorio
+
+No necesitas instalar nada, solo tu navegador.
+
+1. Abre [JDoodle](https://www.jdoodle.com/online-java-compiler) (ya viene en **Java**).
+2. Entra a la carpeta `starter-files/` de la lección que estás viendo.
+3. Copia todo el contenido de `Main.java` y pégalo en el editor, reemplazando el código que aparece.
+4. Si el programa usa `Scanner`, activa **Interactive**. Pulsa **Execute** y sigue las pausas del video.
+5. Si te trabas, compara tu código con la carpeta `completed-examples/` de la misma lección.
+
+### Estructura del repositorio
+
+```text
+java-fundamentals-course-NexusLibre/
+├── README.md
+├── starter-files/        # Código inicial de cada práctica
+├── completed-examples/   # Solución de cada práctica
+└── scripts/              # Guion de cada lección (tiempos, pantalla y narración)
+```
+
+Cada práctica usa la misma carpeta en `starter-files/` y `completed-examples/`: `leccion-01` a `leccion-10`. Cada carpeta tiene un solo archivo `Main.java` que se puede pegar completo en JDoodle.
+
+**¡Gracias por completar el curso!** Ya puedes escribir programas en Java, organizarlos con clases y objetos, encontrar errores y seguir aprendiendo.
+
+---
+
+## 👥 Elaboración
+
+**Universidad Peruana de Ciencias Aplicadas**  
+**Carrera:** Ingeniería de Software  
+**Período académico:** 202620  
+**Asignatura:** 1ASI0729 Desarrollo de Aplicaciones Open Source  
+**NRC:** 16692  
+**Nombre del equipo:** NexusLibre  
+**Líder del equipo:** Peñaranda Caldas, Gabriel Augusto (U202210836)  
+**Integrantes del equipo:**
+
+<div align="center">
+
+<table style="border-collapse: collapse; border: none; margin-inline-start: auto; margin-inline-end: auto; width: max-content;">
+  <tr style="border: none;">
+    <th style="border: none; text-align: left; padding: 5px 25px;">Código</th>
+    <th style="border: none; text-align: left; padding: 5px 25px;">Apellidos y Nombres</th>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; text-align: left; padding: 5px 25px;">U202322695</td>
+    <td style="border: none; text-align: left; padding: 5px 25px;">Checalla Apaza, Emanuel Renato</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; text-align: left; padding: 5px 25px;">U202412903</td>
+    <td style="border: none; text-align: left; padding: 5px 25px;">Lozano Quispe, Fabricio Jofred</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; text-align: left; padding: 5px 25px;">U202210836</td>
+    <td style="border: none; text-align: left; padding: 5px 25px;">Peñaranda Caldas, Gabriel Augusto</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; text-align: left; padding: 5px 25px;">[Pendiente: código]</td>
+    <td style="border: none; text-align: left; padding: 5px 25px;">Pezo Castilla, María José</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; text-align: left; padding: 5px 25px;">U202414356</td>
+    <td style="border: none; text-align: left; padding: 5px 25px;">Vite Celis, Rodrigo Matias</td>
+  </tr>
+</table>
+
+</div>
+
+**Fecha de entrega:** Noviembre 2026
